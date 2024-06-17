@@ -16,7 +16,7 @@ This repository contains the implementation of a language model built from scrat
 - **Context Window**: 64 characters
 - **Tokenizer**: Character-level
 - **Vocublary Size**: 145
-- **Training Data**: 2GB of textual data
+- **Training Data**: 2GB of open source textual data 
 
 ## Why Build a Language Model from Scratch?
 
