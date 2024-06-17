@@ -36,8 +36,6 @@ In an era where we can easily import state-of-the-art language models (LLMs) lik
 
 - Python 3.8+
 - PyTorch 1.8.1+
-- NumPy
-- tqdm
 
 ### Installation
 
