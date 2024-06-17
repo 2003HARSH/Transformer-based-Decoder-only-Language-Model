@@ -4,6 +4,7 @@ This repository contains the implementation of a language model built from scrat
 
 ## Model Architecture
 
+- **Model Parameters**: 14.26 million
 - **Batch Size**: 256
 - **Block Size**: 64
 - **Max Iterations**: 10,000
