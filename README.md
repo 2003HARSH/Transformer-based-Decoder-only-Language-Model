@@ -42,8 +42,8 @@ In an era where we can easily import state-of-the-art language models (LLMs) lik
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/transformer-language-model.git
-cd transformer-language-model
+git clone https://github.com/2003HARSH/tinyGPT.git
+cd tinyGPT
 ```
 
 Install the required packages:
