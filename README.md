@@ -42,8 +42,8 @@ In an era where we can easily import state-of-the-art language models (LLMs) lik
 Clone the repository:
 
 ```bash
-git clone https://github.com/2003HARSH/tinyGPT.git
-cd tinyGPT
+git clone https://github.com/2003HARSH/Transformer-based-Decoder-only-Language-Model-from-Scratch.git
+cd Transformer-based-Decoder-only-Language-Model-from-Scratch
 ```
 
 Install the required packages:
